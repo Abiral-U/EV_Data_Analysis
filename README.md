@@ -3,3 +3,9 @@
 This project is about the study of the potential growth of the Electric Vehicle market in future , in United States of America.
 ---
 Exploratory Data Analaysis have been perfromed to gain some insights about the market across the different counties.
+
+
+
+---
+### Note: If there is error in rendering the .ipynb or .pdf file, try to download it first and then open.
+---
